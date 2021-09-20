@@ -43,4 +43,3 @@ The changes we noticed in all of the data was VERY small. Even with the grades r
 A) The grades were not tampered with and the school is very consistent.
   
 B) Since the values are so miniscule a detailed investigation should be held to look into the potentail tampering of data, since we would expect a decent change of more than 1% in each category.
-test
